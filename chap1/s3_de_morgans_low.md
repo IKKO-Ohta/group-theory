@@ -25,6 +25,11 @@
 
 ![image](https://user-images.githubusercontent.com/27924055/107107916-8bc0d700-6877-11eb-99c1-4a93eeec9106.jpeg)
 
+- 式変形の二行目、否定をつけ忘れていますね。下のようになり、これは定義からBの補集合です
+```python
+not(x in B) and (x in X)
+```
+
 ## わからなかったこと
 
 問3.3 対象差の証明、結合法則の証明について
